@@ -1,6 +1,11 @@
-package project
-
 import kotlin.system.exitProcess
+
+/*
+    最近刷抖音看见挺多写这个啥成绩管理系统
+    模仿一下当乐子
+    面向对象 X
+    面向结果 √
+*/
 
 fun main() {
     val scoresList = arrayListOf<Double>()
